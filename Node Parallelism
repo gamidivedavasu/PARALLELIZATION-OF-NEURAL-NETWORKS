@@ -8,7 +8,6 @@ int test_set_rows = 173;
 int NUM_EPOCHS = 1000;
 double lr = 0.001; // learning rate
 
-
 int main() {
 	srand(10);
 
